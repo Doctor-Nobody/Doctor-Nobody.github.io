@@ -1,9 +1,8 @@
 ---
-title: "Local and global discriminative learning for unsupervised feature selection"
+title: "Learning a robust consensus matrix for clustering ensemble via Kullback-Leibler divergence minimization"
 collection: publications
-permalink: /publication/paper1
-date: 2013-12-07
-venue: 'IEEE 13th International Conference on Data Mining'
-citation: 'Liang Du, Zhiyong Shen, Xuan Li, Peng Zhou, Yi-Dong Shen. (2013). &quot;Local and global discriminative learning for unsupervised feature selection.&quot; <i>IEEE 13th International Conference on Data Mining</i>. 131-140.'
+permalink: /publication/paper7
+date: 2015-6-27
+venue: 'Twenty-Fourth International Joint Conference on Artificial Intelligence'
 ---
-Recommended citation: Liang Du, Zhiyong Shen, Xuan Li, Peng Zhou, Yi-Dong Shen. (2013). &quot;Local and global discriminative learning for unsupervised feature selection.&quot; <i>IEEE 13th International Conference on Data Mining</i>. 131-140. [paper](http://Doctor-Nobody.github.io/papers/ICDM2013.pdf)
+Recommended citation: Peng Zhou, Liang Du, Hanmo Wang, Lei Shi, Yi-Dong Shen. (2015). &quot;Learning a robust consensus matrix for clustering ensemble via Kullback-Leibler divergence minimization.&quot; <i>Twenty-Fourth International Joint Conference on Artificial Intelligence</i>. 4112-4118. [paper](http://Doctor-Nobody.github.io/papers/IJCAI2015-588.pdf) [supplementary material](http://Doctor-Nobody.github.io/papers/Supplementary Material of ijcai2015-577.pdf)
