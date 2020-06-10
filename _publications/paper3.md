@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Experimental Design with Multiple Kernels"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper3
+date: 2009-11-14
+venue: 'IEEE 15th International Conference on Data Mining'
+citation: 'Hanmo Wang, Liang Du, Peng Zhou, Lei Shi, Yuhua Qian, Yi-Dong Shen. (2009). &quot;Experimental Design with Multiple Kernels.&quot; <i>2015 IEEE International Conference on Data Mining</i>. 419-428.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Hanmo Wang, Liang Du, Peng Zhou, Lei Shi, Yuhua Qian, Yi-Dong Shen. (2009). &quot;Experimental Design with Multiple Kernels.&quot; <i>2015 IEEE International Conference on Data Mining</i>. 419-428. [paper](http://Doctor-Nobody.github.io/papers/ICDM2015.pdf)
