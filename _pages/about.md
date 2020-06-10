@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peng Zhou"
+title: "Peng Zhou (周芃)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
