@@ -28,6 +28,6 @@ Reviewer
 * IEEE T-ASE
 * Neurocomputing
 * Signal Processing
-*...
+* ...
 
 
