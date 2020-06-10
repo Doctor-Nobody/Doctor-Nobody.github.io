@@ -1,9 +1,9 @@
 ---
-title: "Local and global discriminative learning for unsupervised feature selection"
+title: "Recovery of corrupted multiple kernels for clustering"
 collection: publications
-permalink: /publication/paper1
-date: 2013-12-07
-venue: 'IEEE 13th International Conference on Data Mining'
-citation: 'Liang Du, Zhiyong Shen, Xuan Li, Peng Zhou, Yi-Dong Shen. (2013). &quot;Local and global discriminative learning for unsupervised feature selection.&quot; <i>IEEE 13th International Conference on Data Mining</i>. 131-140.'
+permalink: /publication/paper6
+date: 2015-6-27
+venue: 'Twenty-Fourth International Joint Conference on Artificial Intelligence'
+citation: 'Peng Zhou, Liang Du, Lei Shi, Hanmo Wang, Yi-Dong Shen. (2015). &quot;Recovery of corrupted multiple kernels for clustering.&quot; <i>Twenty-Fourth International Joint Conference on Artificial Intelligence</i>. 4112-4118.'
 ---
-Recommended citation: Liang Du, Zhiyong Shen, Xuan Li, Peng Zhou, Yi-Dong Shen. (2013). &quot;Local and global discriminative learning for unsupervised feature selection.&quot; <i>IEEE 13th International Conference on Data Mining</i>. 131-140. [paper](http://Doctor-Nobody.github.io/papers/ICDM2013.pdf)
+Peng Zhou, Liang Du, Lei Shi, Hanmo Wang, Yi-Dong Shen. (2015). &quot;Recovery of corrupted multiple kernels for clustering.&quot; <i>Twenty-Fourth International Joint Conference on Artificial Intelligence</i>. 4112-4118. [paper](http://Doctor-Nobody.github.io/papers/IJCAI2015-576.pdf)
