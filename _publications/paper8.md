@@ -1,9 +1,8 @@
 ---
-title: "Local and global discriminative learning for unsupervised feature selection"
+title: "Lightweight Outsourced Privacy-Preserving Heart Failure Prediction Based on GRU"
 collection: publications
-permalink: /publication/paper1
-date: 2013-12-07
-venue: 'IEEE 13th International Conference on Data Mining'
-citation: 'Liang Du, Zhiyong Shen, Xuan Li, Peng Zhou, Yi-Dong Shen. (2013). &quot;Local and global discriminative learning for unsupervised feature selection.&quot; <i>IEEE 13th International Conference on Data Mining</i>. 131-140.'
+permalink: /publication/paper8
+date: 2019-12-09
+venue: 'International Conference on Algorithms and Architectures for Parallel Processing'
 ---
-Recommended citation: Liang Du, Zhiyong Shen, Xuan Li, Peng Zhou, Yi-Dong Shen. (2013). &quot;Local and global discriminative learning for unsupervised feature selection.&quot; <i>IEEE 13th International Conference on Data Mining</i>. 131-140. [paper](http://Doctor-Nobody.github.io/papers/ICDM2013.pdf)
+Zuobin Ying, Shuanglong Cao, Peng Zhou, Peng Zhou, Shun Zhang, Ximeng Liu. (2019). &quot;Lightweight Outsourced Privacy-Preserving Heart Failure Prediction Based on GRU.&quot; <i>International Conference on Algorithms and Architectures for Parallel Processing</i>. 521-536. [paper](http://Doctor-Nobody.github.io/papers/ica3pp2019.pdf)
