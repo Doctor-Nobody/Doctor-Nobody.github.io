@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contacts"
-permalink: /Contacts/
+permalink: /contacts/
 author_profile: true
 ---
 Email: zhoupeng@ahu.edu.cn
