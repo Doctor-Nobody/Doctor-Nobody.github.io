@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Peng Zhou"
   avatar           : "photo.png"
-  bio              : ""
+  bio              : 
   location         : "Hefei, China"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=gMsIFuEAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Peng_Zhou41"
