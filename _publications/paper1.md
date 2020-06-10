@@ -1,7 +1,7 @@
 ---
 title: "Local and global discriminative learning for unsupervised feature selection"
 collection: publications
-permalink: /publication/paper1
+permalink: /publications/paper1
 date: 2013
 venue: 'IEEE 13th International Conference on Data Mining'
 paperurl: 'http://Doctor-Nobody.github.io/papers/ICDM2013.pdf'
