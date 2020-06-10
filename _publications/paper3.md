@@ -2,7 +2,7 @@
 title: "Experimental Design with Multiple Kernels"
 collection: publications
 permalink: /publication/paper3
-date: 2009-11-14
+date: 2015-11-14
 venue: 'IEEE 15th International Conference on Data Mining'
 ---
 
