@@ -14,7 +14,7 @@ I received the B.E. degree in computer science and technology from University of
 Researches
 ======
 * Clustering Ensemble
-  * <font face="黑体" >Peng Zhou</font>, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. The 29th International Joint Conference on Artificial Intelligence (IJCAI),  Yokohama, Japan, 2020.
+  * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. The 29th International Joint Conference on Artificial Intelligence (IJCAI),  Yokohama, Japan, 2020.
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
