@@ -32,14 +32,4 @@ Researches
   
 
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66566073" charset="UTF-8"></script>
-<%
-        //判读是否为第一次启动，如果启动则添加属性
-        if((Integer) application.getAttribute("AccessCount") == 0){
-            application.setAttribute("AccessCount", 0);
-        }
-        //获得访问次数
-        int count = (Integer) application.getAttribute("AccessCount");
-        //访问次数加一
-        application.setAttribute("AccessCount", count+=1);
-    %>
-    <h3 align="center">当前访问人数：<%=count%></h3>
+
