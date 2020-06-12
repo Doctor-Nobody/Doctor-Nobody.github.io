@@ -19,5 +19,5 @@ redirect_from:
 *  国家973计划课题，2014CB340301，网络大数据的表示、度量与语义理解，2014/01-2018/12，参与
 *  国家自然科学基金面上项目，61379043，通用型回答集程序关键问题研究，2013/01-2016/12，参与
 
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=undefined" charset="UTF-8"></script>
+
 

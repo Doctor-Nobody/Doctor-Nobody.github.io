@@ -30,4 +30,4 @@ Reviewer
 * Signal Processing
 * ...
 
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=undefined" charset="UTF-8"></script>
+

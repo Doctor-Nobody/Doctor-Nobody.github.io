@@ -10,6 +10,6 @@ Address: School of Computer Science and Technology, Anhui University, 111 Jiulon
 
 Zip Code: 230601
 
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=undefined" charset="UTF-8"></script>
+
 
 
