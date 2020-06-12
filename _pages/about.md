@@ -30,3 +30,6 @@ Researches
   * Liang Du, **Peng Zhou**, Lei Shi, Hanmo Wang, Mingyu Fan, Wenjian Wang and Yi-Dong Shen. Robust Multiple Kernel K-means using L2-1-norm. *The Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-15)*, 2015: 3476-3482.
   * Hanmo Wang, Liang Du, Lei Shi, **Peng Zhou**, Yuhua Qian, and Yi-Dong Shen. Experimental Design With Multiple Kernels. *The Fifteenth IEEE International Conference on Data Mining (ICDM-15)*, 2015: 419-428.
   
+
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=undefined" charset="UTF-8"></script>
+  
