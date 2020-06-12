@@ -13,3 +13,5 @@ The full list of my publications can be found on [my Google Scholar profile](htt
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=undefined" charset="UTF-8"></script>
