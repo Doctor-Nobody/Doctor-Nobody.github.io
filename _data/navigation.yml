@@ -6,14 +6,16 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+   
 
   - title: "Academic Services"
     url: /as/
     
   - title: "Projects"
     url: /projects/
+    
+  - title: "Teaching"
+    url: /teaching/ 
     
   - title: "Contacts"
     url: /contacts/
