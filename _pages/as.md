@@ -22,11 +22,12 @@ Reviewer
 * AAAI
 * KDD
 * PAKDD
-* IEEE T-KDE
-* IEEE T-NNLS
-* IEEE T-CYB
-* IEEE T-ASE
+* IEEE Transactions on Knowledge and Data Engineering 
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Cybernetics
+* IEEE Transactions on Automation Science and Engineering
 * Neurocomputing
 * Signal Processing
+* Information Processing and Management
 * ...
 
