@@ -29,5 +29,6 @@ Reviewer
 * Neurocomputing
 * Signal Processing
 * Information Processing and Management
+* IEEE/CAA Journal of Automatica Sinica
 * ...
 
