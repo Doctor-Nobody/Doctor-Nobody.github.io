@@ -12,7 +12,7 @@ redirect_from:
 Program Committee
 ======
 * IJCAI 2019, 2020
-* AAAI 2020
+* AAAI 2020， 2021
 * ECAI 2020
 
 Reviewer
