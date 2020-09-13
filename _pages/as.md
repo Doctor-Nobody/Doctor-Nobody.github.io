@@ -28,6 +28,7 @@ Reviewer
 * IEEE Transactions on Automation Science and Engineering
 * Neurocomputing
 * Signal Processing
+* Applied Soft Computing
 * Information Processing and Management
 * IEEE/CAA Journal of Automatica Sinica
 * ...
