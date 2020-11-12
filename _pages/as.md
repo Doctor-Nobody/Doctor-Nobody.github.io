@@ -31,5 +31,6 @@ Reviewer
 * Applied Soft Computing
 * Information Processing and Management
 * IEEE/CAA Journal of Automatica Sinica
+* 软件学报
 * ...
 
