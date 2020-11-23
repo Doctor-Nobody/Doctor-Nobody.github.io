@@ -18,18 +18,18 @@ Program Committee
 Reviewer
 ======
 * NeurIPS
-* IJCAI
-* AAAI
 * KDD
 * PAKDD
 * IEEE Transactions on Knowledge and Data Engineering 
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Automation Science and Engineering
+* Neural Networks
 * Neurocomputing
 * Signal Processing
 * Applied Soft Computing
 * Information Processing and Management
 * IEEE/CAA Journal of Automatica Sinica
+* 软件学报
 * ...
 
