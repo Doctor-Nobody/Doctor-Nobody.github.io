@@ -1,7 +1,7 @@
 ---
 title: "Self-paced Consensus Clustering with Bipartite Graph"
 collection: publications
-permalink: /publication/ijcai2020
+permalink: /publication/paper15
 date: 2020-07-20
 venue: 'Twenty-Nineth International Joint Conference on Artificial Intelligence'
 ---
