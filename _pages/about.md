@@ -11,9 +11,18 @@ redirect_from:
 I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 20+ papers in highly regarded conferences and journals, including IJCAI, AAAI, SDM, ICDM, IEEE TNNLS, PR, etc. I have served as Program Committee for IJCAI, AAAI, ECAI and reviewer for IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc. several times. 
 
 
+What's News
+======
+* **Dec 2, 2020** "Tri-level Robust Clustering Ensemble with Multiple Graph Learning" has been accepted by AAAI 2021.
+* **Jul 10, 2020** "Top-k Feature Selection Framework using Robust 0-1 Integer Programming" has been accepted by IEEE TNNLS.
+* **Apr 20, 2020** "Self-paced Consensus Clustering with Bipartite Graph" has been accepted by IJCAI 2020.
+* **Apr 12, 2020** "Unsupervised Feature Selection with Adaptive Multiple Graph Learning" has been accepted by Pattern Recognition.
+* **Mar 29, 2020** "Self-paced Clustering Ensenble" has been accepted by IEEE TNNLS.
+
 Researches
 ======
 * **Clustering Ensemble**
+  * **Peng Zhou**, Liang Du, Yi-Dong Shen, Xuejun Li (2021) Tri-level Robust Clustering Ensemble with Multiple Graph Learning. *The 35th AAAI Conference on Artificial Intelligence (AAAI)*, Vancouver, Canada, 2021.
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020.
   * **Peng Zhou**, Liang Du, Xinwang Liu, Yi-Dong Shen, Mingyu Fan, Xuejun Li, Self-paced Clustering Ensemble. *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
