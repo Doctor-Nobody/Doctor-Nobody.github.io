@@ -1,7 +1,7 @@
 ---
 title: "Tri-level Robust Clustering Ensemble with Multiple Graph Learning"
 collection: publications
-permalink: /publication/aaai2021
+permalink: /publication/paper16
 date: 2021-02-02
 venue: 'Thirty-fifth AAAI Conference on Aritificial Intelligence'
 ---
