@@ -20,6 +20,7 @@ Reviewer
 * NeurIPS
 * KDD
 * SDM
+* ICME
 * PAKDD
 * IEEE Transactions on Knowledge and Data Engineering 
 * IEEE Transactions on Neural Networks and Learning Systems
