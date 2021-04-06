@@ -11,13 +11,14 @@ redirect_from:
 
 Program Committee
 ======
+* NeurIPS 2021
 * IJCAI 2019, 2020
 * AAAI 2020, 2021
+* ACM Multimedia 2021
 * ECAI 2020
 
 Reviewer
 ======
-* NeurIPS
 * KDD
 * SDM
 * ICME
