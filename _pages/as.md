@@ -28,6 +28,7 @@ Reviewer
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Automation Science and Engineering
+* Information Fusion
 * Neural Networks
 * Neurocomputing
 * Signal Processing
