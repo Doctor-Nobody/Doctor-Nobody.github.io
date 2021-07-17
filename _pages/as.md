@@ -17,6 +17,7 @@ Program Committee
 * ACM Multimedia 2021
 * ICLR 2022
 * ECAI 2020
+* ACM Multimedia Asia 2021
 
 Reviewer
 ======
