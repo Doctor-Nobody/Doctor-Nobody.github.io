@@ -13,7 +13,7 @@ Program Committee
 ======
 * NeurIPS 2021
 * IJCAI 2019, 2020
-* AAAI 2020, 2021
+* AAAI 2020, 2021, 2022
 * ACM Multimedia 2021
 * ICLR 2022
 * ECAI 2020
