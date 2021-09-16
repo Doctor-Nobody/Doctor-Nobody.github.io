@@ -13,6 +13,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Sep 15, 2021** "Clustering Ensemble via Structured Hypergraph Learning" has been accepted by Information Fusion.
 * **Aug 18, 2021** My NSFC general project is approved (as PI).
 * **Dec 2, 2020** "Tri-level Robust Clustering Ensemble with Multiple Graph Learning" has been accepted by AAAI 2021.
 * **Jul 10, 2020** "Top-k Feature Selection Framework using Robust 0-1 Integer Programming" has been accepted by IEEE TNNLS.
