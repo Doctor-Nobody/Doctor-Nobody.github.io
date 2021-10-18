@@ -24,7 +24,7 @@ What's News
 Researches
 ======
 * **Clustering Ensemble**
-  * **Peng Zhou**, Xia Wang, Liang Du, Xuejun Li, Clustering Ensemble via Structured Hypergraph Learning. *Information Fusion*, to be published.
+  * **Peng Zhou**, Xia Wang, Liang Du, Xuejun Li, Clustering Ensemble via Structured Hypergraph Learning. *Information Fusion*, 2022, 78:171-179.
   * **Peng Zhou**, Liang Du, Yi-Dong Shen, Xuejun Li (2021) Tri-level Robust Clustering Ensemble with Multiple Graph Learning. *The 35th AAAI Conference on Artificial Intelligence (AAAI)*, Vancouver, Canada, 2021:11125-11133.
   * **Peng Zhou**, Liang Du, Xinwang Liu, Yi-Dong Shen, Mingyu Fan, Xuejun Li, Self-paced Clustering Ensemble. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 32(4):1497-1511.
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020:2133-2139.
