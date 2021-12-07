@@ -18,12 +18,12 @@ Program Committee
 * ICLR 2022
 * ECAI 2020
 * ACM Multimedia Asia 2021
+* ICME 2021, 2022
 
 Reviewer
 ======
 * KDD
 * SDM
-* ICME
 * PAKDD
 * IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Knowledge and Data Engineering 
