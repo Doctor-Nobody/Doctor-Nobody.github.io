@@ -15,7 +15,7 @@ Program Committee
 * ICML 2022
 * IJCAI 2019, 2020, 2022
 * AAAI 2020, 2021, 2022
-* ACM Multimedia 2021
+* ACM Multimedia 2021, 2022
 * ICLR 2022
 * ECAI 2020
 * ACM Multimedia Asia 2021
