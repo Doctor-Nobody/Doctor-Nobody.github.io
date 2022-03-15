@@ -13,6 +13,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Mar 15, 2022** "Balanced Spectral Feature Selection" has been accepted by IEEE Transactions on Cybernetics.
 * **Mar 6，2022** “FRATCF:Feature-Residue Real-Time UAV Tracking Based on Automatic Spatio-Temporal Regularization Correlation Filter” has been accepted by ICME 2022.
 * **Sep 15, 2021** "Clustering Ensemble via Structured Hypergraph Learning" has been accepted by Information Fusion.
 * **Aug 18, 2021** My NSFC general project is approved (as PI).
