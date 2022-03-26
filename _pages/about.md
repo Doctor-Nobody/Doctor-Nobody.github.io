@@ -32,6 +32,7 @@ Researches
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020:2133-2139.
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
 * **Feature Selection**
+  * **Peng Zhou**, Jiangyong Chen, Liang Du, Xuejun Li, Balanced Spectral Feature Selection, *IEEE Transactions on Cybernetics*, 2022, Accepted.
   * Xiaoqin zhang, Mingyu Fan, Di Wang, **Peng Zhou (Corresponding author)**, Dacheng Tao, Top-k Feature Selection Framework using Robust 0-1 Integer Programming, *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 32(7):3005-3019. 
   * **Peng Zhou**, Liang Du,  Xuejun Li, Yi-Dong Shen, Yuhua Qian, Unsupervised Feature Selection with Adaptive Multiple Graph Learning, *Pattern Recognition*, 105, 2020, 107375. 
   * **Peng Zhou**, Jiangyong Chen, Mingyu Fan, Liang Du, Yi-Dong Shen, Xuejun Li, Unsupervised feature selection for balanced clustering. *Knowledge-Based System*, 193,2020, 105417. 
