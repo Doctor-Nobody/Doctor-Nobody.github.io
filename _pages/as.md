@@ -11,14 +11,13 @@ redirect_from:
 
 Program Committee
 ======
-* NeurIPS 2021
+* NeurIPS 2021, 2022
 * ICML 2022
 * IJCAI 2019, 2020, 2022
 * AAAI 2020, 2021, 2022
 * ACM Multimedia 2021, 2022
 * ICLR 2022
 * ECAI 2020
-* ACM Multimedia Asia 2021
 * ICME 2021, 2022
 
 Reviewer
