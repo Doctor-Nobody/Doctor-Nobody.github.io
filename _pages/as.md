@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Academic Services"
 permalink: /as/
 author_profile: true
 redirect_from:
