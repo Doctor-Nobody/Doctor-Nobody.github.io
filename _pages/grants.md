@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /projects/
+permalink: /grants/
 author_profile: true
 redirect_from:
-  - /projects
+  - /grants
 ---
 
 {% include base_path %}
