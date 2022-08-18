@@ -13,17 +13,14 @@ Program Committee
 * NeurIPS 2021, 2022
 * ICML 2022
 * IJCAI 2019, 2020, 2022
-* AAAI 2020, 2021, 2022
+* AAAI 2020, 2021, 2022, 2023
 * ACM Multimedia 2021, 2022
-* ICLR 2022
+* ICLR 2022, 2023
 * ECAI 2020
 * ICME 2021, 2022
 
 Reviewer
 ======
-* KDD
-* SDM
-* PAKDD
 * IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Knowledge and Data Engineering 
 * IEEE Transactions on Neural Networks and Learning Systems
