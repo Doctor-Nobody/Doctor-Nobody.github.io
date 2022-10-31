@@ -13,7 +13,8 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
-* **Sep 20, 2022** "Self-paced Adaptive Bipartite Graph Learning for Consensus Clustering" has been accepted by TKDD.
+* **Oct 30, 2022** "A Light Causal Feature Selection Approach to High-Dimensional Data" has been accepted by IEEE TKDE.
+* **Sep 20, 2022** "Self-paced Adaptive Bipartite Graph Learning for Consensus Clustering" has been accepted by ACM TKDD.
 * **Jun 25, 2022** "Active Deep Image Clustering" has been accepted by Knowledge-Based Systems.
 * **Mar 15, 2022** "Balanced Spectral Feature Selection" has been accepted by IEEE Transactions on Cybernetics.
 * **Mar 6，2022** “FRATCF:Feature-Residue Real-Time UAV Tracking Based on Automatic Spatio-Temporal Regularization Correlation Filter” has been accepted by ICME 2022.
@@ -35,6 +36,7 @@ Researches
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020:2133-2139.
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
 * **Feature Selection**
+  * Zhaolong Ling, Ying Li, Tiwen Zhang, Kui Yu, **Peng Zhou**, Bo Li, Xindong Wu, A Light Causal Feature Selection Approach to High-Dimensional Data, * IEEE Transactions on Knowledge and Data Engineering*, 2022, Accepted.
   * **Peng Zhou**, Jiangyong Chen, Liang Du, Xuejun Li, Balanced Spectral Feature Selection, *IEEE Transactions on Cybernetics*, 2022, Accepted.
   * Xiaoqin zhang, Mingyu Fan, Di Wang, **Peng Zhou (Corresponding author)**, Dacheng Tao, Top-k Feature Selection Framework using Robust 0-1 Integer Programming, *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 32(7):3005-3019. (**ESI Highly Cited Paper, ESI Hot Cited Paper**)
   * **Peng Zhou**, Liang Du,  Xuejun Li, Yi-Dong Shen, Yuhua Qian, Unsupervised Feature Selection with Adaptive Multiple Graph Learning, *Pattern Recognition*, 105, 2020, 107375. 
