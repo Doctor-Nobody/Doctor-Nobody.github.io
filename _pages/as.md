@@ -29,6 +29,7 @@ Reviewer
 * IEEE Transactions on Consumer Electronics
 * Information Fusion
 * Neural Networks
+* Knowledge-Based Systems
 * Neurocomputing
 * Signal Processing
 * Applied Soft Computing
