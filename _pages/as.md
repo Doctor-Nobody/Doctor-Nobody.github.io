@@ -17,7 +17,7 @@ Program Committee
 * ACM Multimedia 2021, 2022
 * ICLR 2022, 2023
 * ECAI 2020
-* ICME 2021, 2022
+* ICME 2021, 2022, 2023
 * ICASSP 2023
 
 Reviewer
