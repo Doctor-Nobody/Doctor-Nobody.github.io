@@ -29,6 +29,7 @@ Reviewer
 * IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Consumer Electronics
 * Information Fusion
+* Machine Learning
 * Neural Networks
 * Knowledge-Based Systems
 * Neurocomputing
