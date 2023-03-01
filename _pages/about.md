@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Mar 1, 2023** ""Active Clustering Ensemble with Self-paced Learning" has been accepted by IEEE TNNLS.
 * **Nov 16, 2022** "A Node Classification-Based Multi-Objective Evolutionary Algorithm for Community Detection in Complex Networks" has been accepted by IEEE TCSS.
 * **Oct 30, 2022** "A Light Causal Feature Selection Approach to High-Dimensional Data" has been accepted by IEEE TKDE.
 * **Sep 20, 2022** "Self-paced Adaptive Bipartite Graph Learning for Consensus Clustering" has been accepted by ACM TKDD.
@@ -40,6 +41,7 @@ What's News
 Researches
 ======
 * **Clustering Ensemble**
+  * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2023, Accepted.
   * **Peng Zhou**, Xinwang Liu, Liang Du, Xuejun Li, Self-paced Adaptive Bipartite Graph Learning for Consensus Clustering, *ACM Transactions on Knowledge Discovery from Data*, 2023, 17, 5, Article 62:1-35.
   * **Peng Zhou**, Xia Wang, Liang Du, Xuejun Li, Clustering Ensemble via Structured Hypergraph Learning. *Information Fusion*, 2022, 78:171-179.
   * **Peng Zhou**, Liang Du, Yi-Dong Shen, Xuejun Li (2021) Tri-level Robust Clustering Ensemble with Multiple Graph Learning. *The 35th AAAI Conference on Artificial Intelligence (AAAI)*, Vancouver, Canada, 2021:11125-11133.
