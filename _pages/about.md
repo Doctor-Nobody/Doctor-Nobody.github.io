@@ -40,7 +40,7 @@ What's News
 Researches
 ======
 * **Clustering Ensemble**
-  * **Peng Zhou**, Xinwang Liu, Liang Du, Xuejun Li, Self-paced Adaptive Bipartite Graph Learning for Consensus Clustering, *ACM Transactions on Knowledge Discovery from Data*, 2022, Accepted.
+  * **Peng Zhou**, Xinwang Liu, Liang Du, Xuejun Li, Self-paced Adaptive Bipartite Graph Learning for Consensus Clustering, *ACM Transactions on Knowledge Discovery from Data*, 2023, 17, 5, Article 62:1-35.
   * **Peng Zhou**, Xia Wang, Liang Du, Xuejun Li, Clustering Ensemble via Structured Hypergraph Learning. *Information Fusion*, 2022, 78:171-179.
   * **Peng Zhou**, Liang Du, Yi-Dong Shen, Xuejun Li (2021) Tri-level Robust Clustering Ensemble with Multiple Graph Learning. *The 35th AAAI Conference on Artificial Intelligence (AAAI)*, Vancouver, Canada, 2021:11125-11133.
   * **Peng Zhou**, Liang Du, Xinwang Liu, Yi-Dong Shen, Mingyu Fan, Xuejun Li, Self-paced Clustering Ensemble. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 32(4):1497-1511.
