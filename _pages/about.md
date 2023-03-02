@@ -55,6 +55,11 @@ Researches
   * **Peng Zhou**, Liang Du,  Xuejun Li, Yi-Dong Shen, Yuhua Qian, Unsupervised Feature Selection with Adaptive Multiple Graph Learning, *Pattern Recognition*, 105, 2020, 107375. 
   * **Peng Zhou**, Jiangyong Chen, Mingyu Fan, Liang Du, Yi-Dong Shen, Xuejun Li, Unsupervised feature selection for balanced clustering. *Knowledge-Based System*, 193,2020, 105417. 
   * Liang Du, Zhiyong Shen, Xuan Li, **Peng Zhou** and Yi-Dong Shen. Local and Global Discriminative Learning for Unsupervised Feature Selection. *The Thirteenth IEEE International Conference on Data Mining (ICDM-13)*, 2013:131-140.
+* **Active Learning**
+  * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2023, Accepted.
+  * Bicheng Sun, **Peng Zhou (Corresponding author)**, Liang Du, Xuejun Li. Active Deep Image Clustering. *Knowledge-Based Systems*, 2022,252,109346. 
+  * Hanmo Wang, Liang Du, **Peng Zhou**, Lei Shi, Yi-Dong Shen. Convex batch mode active sampling via α-relative pearson divergence. *Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15)*. 2015: 3045-3051. 
+  * Hanmo Wang, Liang Du, Lei Shi, **Peng Zhou**, Yuhua Qian, and Yi-Dong Shen. Experimental Design With Multiple Kernels. *The Fifteenth IEEE International Conference on Data Mining (ICDM-15)*, 2015: 419-428.
 * **Multi-view Learning**
   * **Peng Zhou**, Yi-Dong Shen, Liang Du and Fan Ye (2019) Incremental Multi-view Support Vector Machine. *The Nineteenth SIAM International Conference on Data Mining (SDM-19)*, Calgary, Canada, May 2019.
   * **Peng Zhou**, Yi-Dong Shen, Liang Du, Fan Ye, Xuejun Li,  Incremental multi-view spectral clustering. *Knowledge-Based System*, 174, 2019:73-86.  
