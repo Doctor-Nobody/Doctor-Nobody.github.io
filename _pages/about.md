@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Mar 13, 2023** Two papers "Medical Image Super-resolution via Diagnosis-guided Attention" and "INCLR: Intensifying the Consistency of Pseudo Label Refinement for Unsupervised Domain Adaption Person Re-Identification" have been accepted by ICME 2023.
 * **Mar 1, 2023** "Active Clustering Ensemble with Self-paced Learning" has been accepted by IEEE TNNLS.
 * **Nov 16, 2022** "A Node Classification-Based Multi-Objective Evolutionary Algorithm for Community Detection in Complex Networks" has been accepted by IEEE TCSS.
 * **Oct 30, 2022** "A Light Causal Feature Selection Approach to High-Dimensional Data" has been accepted by IEEE TKDE.
