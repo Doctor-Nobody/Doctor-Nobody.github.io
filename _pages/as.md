@@ -36,6 +36,8 @@ Reviewer
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Consumer Electronics
+* ACM Transactions on Knowledge Discovery from Data
+* Pattern Recognition
 * Information Fusion
 * Machine Learning
 * Neural Networks
