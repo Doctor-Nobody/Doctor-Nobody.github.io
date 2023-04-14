@@ -22,7 +22,7 @@ Program Committee
 * ICML 2022, 2023
 * IJCAI 2019, 2020, 2022, 2023
 * AAAI 2020, 2021, 2022, 2023
-* ACM Multimedia 2021, 2022
+* ACM Multimedia 2021, 2022, 2023
 * ICLR 2022, 2023
 * ECAI 2020
 * ICME 2021, 2022, 2023
@@ -36,7 +36,6 @@ Reviewer
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Consumer Electronics
-* ACM Transactions on Knowledge Discovery from Data
 * Pattern Recognition
 * Information Fusion
 * Machine Learning
