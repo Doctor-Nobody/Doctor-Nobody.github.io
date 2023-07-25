@@ -21,7 +21,7 @@ Program Committee
 * NeurIPS 2021, 2022, 2023
 * ICML 2022, 2023
 * IJCAI 2019, 2020, 2022, 2023
-* AAAI 2020, 2021, 2022, 2023
+* AAAI 2020, 2021, 2022, 2023, 2024
 * ACM Multimedia 2021, 2022, 2023
 * ICLR 2022, 2023
 * ECAI 2020
@@ -41,6 +41,7 @@ Reviewer
 * Machine Learning
 * Neural Networks
 * Knowledge-Based Systems
+* Expert Systems With Applications
 * Neurocomputing
 * Signal Processing
 * Applied Soft Computing
