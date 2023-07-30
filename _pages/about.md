@@ -18,11 +18,12 @@ redirect_from:
   gtag('config', 'G-T0S164QJL9');
 </script>
 
-I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 30+ papers in highly regarded conferences and journals, including IJCAI, AAAI, SDM, ICDM, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
+I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 30+ papers in highly regarded conferences and journals, including IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
 
 
 What's News
 ======
+* **Jul 26, 2023** "Learnable Graph Filter for Multi-view Clustering" has been accepted by ACM MM 2023.
 * **Jul 3, 2023** "Bi-level Ensemble Method for Unsupervised Feature Selection" has been accepted by Information Fusion.
 * **Apr 2, 2023** "Adaptive Consensus Clustering for Multiple K-means via Base Results Refining" has been accepted by TKDE.
 * **Mar 13, 2023** Two papers "Medical Image Super-resolution via Diagnosis-guided Attention" and "INCLR: Intensifying the Consistency of Pseudo Label Refinement for Unsupervised Domain Adaption Person Re-Identification" have been accepted by ICME 2023.
@@ -47,6 +48,11 @@ Researches
   * **Peng Zhou**, Liang Du, Xinwang Liu, Yi-Dong Shen, Mingyu Fan, Xuejun Li, Self-paced Clustering Ensemble. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 32(4):1497-1511.
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020:2133-2139.
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
+* **Multi-view Learning**
+  * **Peng Zhou**, Liang Du. Learnable Graph Filter for Multi-view Clustering. *ACM International Conference on Multimedia (ACM MM 2023)*, 2023, Accepted.
+  * **Peng Zhou**, Yi-Dong Shen, Liang Du and Fan Ye. Incremental Multi-view Support Vector Machine. *The Nineteenth SIAM International Conference on Data Mining (SDM-19)*, Calgary, Canada, May 2019.
+  * **Peng Zhou**, Yi-Dong Shen, Liang Du, Fan Ye, Xuejun Li,  Incremental multi-view spectral clustering. *Knowledge-Based System*, 174, 2019:73-86.  
+  * **Peng Zhou**, Liang Du, Mingyu Fan and Yi-Dong Shen. An LLE based Heterogeneous Metric Learning for Crossmedia Retrieval. *The Fifteenth SIAM International Conference on Data Mining (SDM-15)*, 2015: 64-72.
 * **Feature Selection**
   * **Peng Zhou**, Xia Wang, Liang Du, Bi-level Ensemble Method for Unsupervised Feature Selection, *Information Fusion*, 2023, Accepted.
   * Zhaolong Ling, Ying Li, Tiwen Zhang, Kui Yu, **Peng Zhou**, Bo Li, Xindong Wu, A Light Causal Feature Selection Approach to High-Dimensional Data, *IEEE Transactions on Knowledge and Data Engineering*, 2022, Accepted.
@@ -60,10 +66,6 @@ Researches
   * Bicheng Sun, **Peng Zhou (Corresponding author)**, Liang Du, Xuejun Li. Active Deep Image Clustering. *Knowledge-Based Systems*, 2022,252,109346. 
   * Hanmo Wang, Liang Du, **Peng Zhou**, Lei Shi, Yi-Dong Shen. Convex batch mode active sampling via α-relative pearson divergence. *Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15)*. 2015: 3045-3051. 
   * Hanmo Wang, Liang Du, Lei Shi, **Peng Zhou**, Yuhua Qian, and Yi-Dong Shen. Experimental Design With Multiple Kernels. *The Fifteenth IEEE International Conference on Data Mining (ICDM-15)*, 2015: 419-428.
-* **Multi-view Learning**
-  * **Peng Zhou**, Yi-Dong Shen, Liang Du and Fan Ye (2019) Incremental Multi-view Support Vector Machine. *The Nineteenth SIAM International Conference on Data Mining (SDM-19)*, Calgary, Canada, May 2019.
-  * **Peng Zhou**, Yi-Dong Shen, Liang Du, Fan Ye, Xuejun Li,  Incremental multi-view spectral clustering. *Knowledge-Based System*, 174, 2019:73-86.  
-  * **Peng Zhou**, Liang Du, Mingyu Fan and Yi-Dong Shen. An LLE based Heterogeneous Metric Learning for Crossmedia Retrieval. *The Fifteenth SIAM International Conference on Data Mining (SDM-15)*, 2015: 64-72.
 * **Multiple Kernel Learning**
   * **Peng Zhou**, Liang Du, Lei Shi, Hanmo Wang and Yi-Dong Shen. Recovery of Corrupted Multiple Kernels for Clustering. *The Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-15)*, 2015: 4105-4111.
   * Liang Du, **Peng Zhou**, Lei Shi, Hanmo Wang, Mingyu Fan, Wenjian Wang and Yi-Dong Shen. Robust Multiple Kernel K-means using L2-1-norm. *The Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-15)*, 2015: 3476-3482.
