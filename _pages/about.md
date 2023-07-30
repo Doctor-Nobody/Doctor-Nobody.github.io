@@ -54,7 +54,7 @@ Researches
   * **Peng Zhou**, Yi-Dong Shen, Liang Du, Fan Ye, Xuejun Li,  Incremental multi-view spectral clustering. *Knowledge-Based System*, 174, 2019:73-86.  
   * **Peng Zhou**, Liang Du, Mingyu Fan and Yi-Dong Shen. An LLE based Heterogeneous Metric Learning for Crossmedia Retrieval. *The Fifteenth SIAM International Conference on Data Mining (SDM-15)*, 2015: 64-72.
 * **Feature Selection**
-  * **Peng Zhou**, Xia Wang, Liang Du, Bi-level Ensemble Method for Unsupervised Feature Selection, *Information Fusion*, 2023, Accepted.
+  * **Peng Zhou**, Xia Wang, Liang Du, Bi-level Ensemble Method for Unsupervised Feature Selection, *Information Fusion*, 2023,100,101910.
   * Zhaolong Ling, Ying Li, Tiwen Zhang, Kui Yu, **Peng Zhou**, Bo Li, Xindong Wu, A Light Causal Feature Selection Approach to High-Dimensional Data, *IEEE Transactions on Knowledge and Data Engineering*, 2022, Accepted.
   * **Peng Zhou**, Jiangyong Chen, Liang Du, Xuejun Li, Balanced Spectral Feature Selection, *IEEE Transactions on Cybernetics*, 2023, 53(7):4232-4244.
   * Xiaoqin zhang, Mingyu Fan, Di Wang, **Peng Zhou (Corresponding author)**, Dacheng Tao, Top-k Feature Selection Framework using Robust 0-1 Integer Programming, *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 32(7):3005-3019. (**ESI Highly Cited Paper, ESI Hot Cited Paper**)
