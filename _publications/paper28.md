@@ -1,5 +1,5 @@
 ---
-title: "Bi-level ensemble method for unsupervised feature selection"
+title: "Bi-level Ensemble Method for Unsupervised Feature Selection"
 collection: publications
 permalink: /publication/paper28
 date: 2023-12-1
