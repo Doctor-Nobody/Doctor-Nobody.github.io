@@ -36,6 +36,7 @@ Reviewer
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Consumer Electronics
+* IEEE Transactions on Industrial Informatics
 * Pattern Recognition
 * Information Fusion
 * Machine Learning
