@@ -52,3 +52,8 @@ Reviewer
 * 软件学报
 * ...
 
+Others
+======
+* Senior Member of China Computer Federation (CCF)
+* Advisory Board Member of Heliyon
+* Session Co-chair of the 7th Asian Conference on Aritificial Intellligence Technology
