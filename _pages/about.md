@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Aug 26, 2023** "Clustering Ensemble via Diffusion on Adaptive Multiplex" has been accepted by TKDE.
 * **Jul 26, 2023** "Learnable Graph Filter for Multi-view Clustering" has been accepted by ACM MM 2023.
 * **Jul 3, 2023** "Bi-level Ensemble Method for Unsupervised Feature Selection" has been accepted by Information Fusion.
 * **Apr 2, 2023** "Adaptive Consensus Clustering for Multiple K-means via Base Results Refining" has been accepted by TKDE.
