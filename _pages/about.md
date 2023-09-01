@@ -41,6 +41,7 @@ What's News
 Researches
 ======
 * **Clustering Ensemble**
+  * **Peng Zhou**, Boao Hu, Dengcheng Yan, Liang Du, Clustering Ensemble via Diffusion on Adaptive Multiplex, *IEEE Transactions on Knowledge and Data Engineering*, 2023, Accepted.
   * **Peng Zhou**, Liang Du, Xuejun Li, Adaptive Consensus Clustering for Multiple K-means via Base Results Refining, *IEEE Transactions on Knowledge and Data Engineering*, 2023, Accepted.
   * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2023, Accepted.
   * **Peng Zhou**, Xinwang Liu, Liang Du, Xuejun Li, Self-paced Adaptive Bipartite Graph Learning for Consensus Clustering, *ACM Transactions on Knowledge Discovery from Data*, 2023, 17, 5, Article 62:1-35.
