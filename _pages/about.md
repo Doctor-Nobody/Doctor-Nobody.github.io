@@ -52,10 +52,10 @@ Researches
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020:2133-2139.
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
 * **Multi-view Learning**
-  * Boao Hu, Xu Wang, **Peng Zhou (Corresponding author)**, Liang Du. Multi-view Outlier Detection via Graphs Denoising, 2023, Accepted.
+  * Boao Hu, Xu Wang, **Peng Zhou (Corresponding author)**, Liang Du. Multi-view Outlier Detection via Graphs Denoising, *Information Fusion*, 2023, Accepted.
   * **Peng Zhou**, Liang Du. Learnable Graph Filter for Multi-view Clustering. *ACM International Conference on Multimedia (ACM MM 2023)*, 2023, Accepted.
   * **Peng Zhou**, Yi-Dong Shen, Liang Du and Fan Ye. Incremental Multi-view Support Vector Machine. *The Nineteenth SIAM International Conference on Data Mining (SDM-19)*, Calgary, Canada, May 2019.
-  * **Peng Zhou**, Yi-Dong Shen, Liang Du, Fan Ye, Xuejun Li,  Incremental multi-view spectral clustering. *Knowledge-Based System*, 174, 2019:73-86.  
+  * **Peng Zhou**, Yi-Dong Shen, Liang Du, Fan Ye, Xuejun Li,  Incremental multi-view spectral clustering. *Knowledge-Based System*, 174, 2019:73-86. 
   * **Peng Zhou**, Liang Du, Mingyu Fan and Yi-Dong Shen. An LLE based Heterogeneous Metric Learning for Crossmedia Retrieval. *The Fifteenth SIAM International Conference on Data Mining (SDM-15)*, 2015: 64-72.
 * **Feature Selection**
   * **Peng Zhou**, Xia Wang, Liang Du, Bi-level Ensemble Method for Unsupervised Feature Selection, *Information Fusion*, 2023,100,101910.
