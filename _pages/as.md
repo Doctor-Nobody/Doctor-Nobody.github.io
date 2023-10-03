@@ -26,7 +26,7 @@ Program Committee
 * ICLR 2022, 2023, 2024
 * ECAI 2020
 * ICME 2021, 2022, 2023
-* ICASSP 2023
+* ICASSP 2023, 2024
 
 Reviewer
 ======
