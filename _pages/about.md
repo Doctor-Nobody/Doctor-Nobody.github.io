@@ -43,7 +43,7 @@ What's News
 Researches
 ======
 * **Clustering Ensemble**
-  * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, *IEEE Transactions on Knowledge and Data Engineering*, 2023, Accepted.
+  * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, Partial Clustering Ensemble, *IEEE Transactions on Knowledge and Data Engineering*, 2023, Accepted.
   * **Peng Zhou**, Boao Hu, Dengcheng Yan, Liang Du, Clustering Ensemble via Diffusion on Adaptive Multiplex, *IEEE Transactions on Knowledge and Data Engineering*, 2023, Accepted.
   * **Peng Zhou**, Liang Du, Xuejun Li, Adaptive Consensus Clustering for Multiple K-means via Base Results Refining, *IEEE Transactions on Knowledge and Data Engineering*, 2023,35(10):10251-10264.
   * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2023, Accepted.
