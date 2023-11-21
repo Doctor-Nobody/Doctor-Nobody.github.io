@@ -23,6 +23,7 @@ Program Committee
 * IJCAI 2019, 2020, 2022, 2023
 * AAAI 2020, 2021, 2022, 2023, 2024
 * ACM Multimedia 2021, 2022, 2023
+* CVPR 2024
 * ICLR 2022, 2023, 2024
 * ECAI 2020
 * ICME 2021, 2022, 2023
@@ -57,4 +58,6 @@ Others
 * Senior Member of China Computer Federation (CCF)
 * Senior Member of IEEE
 * Advisory Board Member of Heliyon
-* Session Co-chair of the 7th Asian Conference on Aritificial Intellligence Technology
+* Session Chair of the IEEE International Conference on Data Mining 2023 (ICDM 2023)
+* Session Chair of the 7th Asian Conference on Aritificial Intellligence Technology
+
