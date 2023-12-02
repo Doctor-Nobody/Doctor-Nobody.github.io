@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Nov 26, 2023** "Multi-view Clustering Based on Adaptive Similarity Graph Joint Optimization" has been accepted by Chinese Journal of Computers (in Chinese). ("自适应相似图联合优化的多视图聚类"被《计算机学报》接收。)
 * **Oct 1, 2023** "Partial Clustering Ensemble" has been accepted by TKDE.
 * **Sep 5, 2023** "Multi-view Outlier Detection via Graphs Denoising" has been accepted by Information Fusion.
 * **Aug 26, 2023** "Clustering Ensemble via Diffusion on Adaptive Multiplex" has been accepted by TKDE.
