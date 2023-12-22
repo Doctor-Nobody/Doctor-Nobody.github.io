@@ -20,7 +20,7 @@ Program Committee
 ======
 * NeurIPS 2021, 2022, 2023
 * ICML 2022, 2023
-* IJCAI 2019, 2020, 2022, 2023
+* IJCAI 2019, 2020, 2022, 2023, 2024
 * AAAI 2020, 2021, 2022, 2023, 2024
 * ACM Multimedia 2021, 2022, 2023
 * CVPR 2024
@@ -28,6 +28,7 @@ Program Committee
 * ECAI 2020
 * ICME 2021, 2022, 2023
 * ICASSP 2023, 2024
+
 
 Reviewer
 ======
