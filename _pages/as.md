@@ -39,6 +39,7 @@ Reviewer
 * IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Consumer Electronics
 * IEEE Transactions on Industrial Informatics
+* IEEE Transactions on Computational Social Systems
 * Pattern Recognition
 * Information Fusion
 * Machine Learning
