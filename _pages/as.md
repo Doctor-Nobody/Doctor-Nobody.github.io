@@ -46,6 +46,7 @@ Reviewer
 * Neural Networks
 * Knowledge-Based Systems
 * Expert Systems With Applications
+* Knowledge and Information Systems
 * Neurocomputing
 * Signal Processing
 * Applied Soft Computing
