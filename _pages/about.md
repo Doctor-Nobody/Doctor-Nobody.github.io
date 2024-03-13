@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Mar 13, 2024** Two papers "Deep Self-paced Active Learning for Image Clustering" and "Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering" have been accpeted by ICME 2024.
 * **Jan 30, 2024** One paper has been accepted by ACM TKDD.
 * **Dec 27, 2023** "Multiple Kernel Clustering with Local Kernel Reconstruction and Global Heat Diffusion" has been accepted by Information Fusion.
 * **Dec 12, 2023** Two papers "Higher Order Multiple Graph Filtering for Structured Graph Learning" and "Kmeans Clustering Based on Chebyshev Polynomial Graph Filtering" have been accepted by ICASSP 2024.
