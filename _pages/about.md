@@ -48,6 +48,7 @@ What's News
 Researches
 ======
 * **Clustering Ensemble**
+  * Chen Liang, Zhiqian Dong, Sheng Yang, **Peng Zhou (Corresponding author)**, Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
   * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, Partial Clustering Ensemble, *IEEE Transactions on Knowledge and Data Engineering*, 2023, Accepted.
   * **Peng Zhou**, Boao Hu, Dengcheng Yan, Liang Du, Clustering Ensemble via Diffusion on Adaptive Multiplex, *IEEE Transactions on Knowledge and Data Engineering*, 2023, Accepted.
   * **Peng Zhou**, Liang Du, Xuejun Li, Adaptive Consensus Clustering for Multiple K-means via Base Results Refining, *IEEE Transactions on Knowledge and Data Engineering*, 2023,35(10):10251-10264.
@@ -73,6 +74,7 @@ Researches
   * **Peng Zhou**, Jiangyong Chen, Mingyu Fan, Liang Du, Yi-Dong Shen, Xuejun Li, Unsupervised feature selection for balanced clustering. *Knowledge-Based System*, 193,2020, 105417. 
   * Liang Du, Zhiyong Shen, Xuan Li, **Peng Zhou** and Yi-Dong Shen. Local and Global Discriminative Learning for Unsupervised Feature Selection. *The Thirteenth IEEE International Conference on Data Mining (ICDM-13)*, 2013:131-140.
 * **Active Learning**
+  * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**, Deep Self-paced Active Learning for Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
   * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2023, Accepted.
   * Bicheng Sun, **Peng Zhou (Corresponding author)**, Liang Du, Xuejun Li. Active Deep Image Clustering. *Knowledge-Based Systems*, 2022,252,109346. 
   * Hanmo Wang, Liang Du, **Peng Zhou**, Lei Shi, Yi-Dong Shen. Convex batch mode active sampling via α-relative pearson divergence. *Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15)*. 2015: 3045-3051. 
