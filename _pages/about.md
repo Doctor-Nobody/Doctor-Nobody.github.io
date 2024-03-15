@@ -42,8 +42,7 @@ What's News
 * **Jun 25, 2022** "Active Deep Image Clustering" has been accepted by Knowledge-Based Systems.
 * **Mar 15, 2022** "Balanced Spectral Feature Selection" has been accepted by IEEE Transactions on Cybernetics.
 * **Mar 6，2022** “FRATCF:Feature-Residue Real-Time UAV Tracking Based on Automatic Spatio-Temporal Regularization Correlation Filter” has been accepted by ICME 2022.
-* **Sep 15, 2021** "Clustering Ensemble via Structured Hypergraph Learning" has been accepted by Information Fusion.
-* **Aug 18, 2021** My NSFC general project is approved (as PI).
+
 
 Researches
 ======
