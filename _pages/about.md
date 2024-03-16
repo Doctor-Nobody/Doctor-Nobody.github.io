@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Mar 16, 2024** "Multi-View Semi-Supervised Feature Selection with Graph Convolutional Networks" has been accpeted by IJCNN 2024.
 * **Mar 13, 2024** Two papers "Deep Self-paced Active Learning for Image Clustering" and "Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering" have been accpeted by ICME 2024.
 * **Jan 30, 2024** One paper has been accepted by ACM TKDD.
 * **Dec 27, 2023** "Multiple Kernel Clustering with Local Kernel Reconstruction and Global Heat Diffusion" has been accepted by Information Fusion.
