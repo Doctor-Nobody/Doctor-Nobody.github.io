@@ -41,6 +41,7 @@ Reviewer
 * IEEE Transactions on Consumer Electronics
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Computational Social Systems
+* IEEE Transactions on Emerging Topics in Computational Intelligence
 * IEEE Signal Processing Letters
 * Pattern Recognition
 * Information Fusion
