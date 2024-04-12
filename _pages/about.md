@@ -49,7 +49,7 @@ Researches
 ======
 * **Clustering Ensemble**
   * Chen Liang, Zhiqian Dong, Sheng Yang, **Peng Zhou (Corresponding author)**, Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
-  * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, Partial Clustering Ensemble, *IEEE Transactions on Knowledge and Data Engineering*, 2023, Accepted.
+  * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, Partial Clustering Ensemble, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(5):2096-2109. 
   * **Peng Zhou**, Boao Hu, Dengcheng Yan, Liang Du, Clustering Ensemble via Diffusion on Adaptive Multiplex, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(4):1463-1474.
   * **Peng Zhou**, Liang Du, Xuejun Li, Adaptive Consensus Clustering for Multiple K-means via Base Results Refining, *IEEE Transactions on Knowledge and Data Engineering*, 2023,35(10):10251-10264.
   * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2023, Accepted.
