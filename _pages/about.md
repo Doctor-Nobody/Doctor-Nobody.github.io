@@ -18,11 +18,12 @@ redirect_from:
   gtag('config', 'G-T0S164QJL9');
 </script>
 
-I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 40+ papers in highly regarded conferences and journals, including IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
+I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 50+ papers in highly regarded conferences and journals, including IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
 
 
 What's News
 ======
+* **Apr 17，2024** Two papers "Active Deep Multi-view Clustering" and "Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference" have been accepted by IJCAI 2024.
 * **Mar 16, 2024** "Multi-View Semi-Supervised Feature Selection with Graph Convolutional Networks" has been accpeted by IJCNN 2024.
 * **Mar 13, 2024** Two papers "Deep Self-paced Active Learning for Image Clustering" and "Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering" have been accpeted by ICME 2024.
 * **Jan 30, 2024** One paper has been accepted by ACM TKDD.
@@ -60,6 +61,7 @@ Researches
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020:2133-2139.
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
 * **Multi-view Learning**
+  * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**. Active Deep Multi-view Clustering, *The 33th International Joint Conference on Artificial Intelligence (IJCAI)*, 2023, South Korea, 2024, Accepted.
   * Boao Hu, Xu Wang, **Peng Zhou (Corresponding author)**, Liang Du. Multi-view Outlier Detection via Graphs Denoising, *Information Fusion*, 2024,101,102012.
   * **Peng Zhou**, Liang Du. Learnable Graph Filter for Multi-view Clustering. *ACM International Conference on Multimedia (ACM MM 2023)*, 2023, Accepted.
   * **Peng Zhou**, Yi-Dong Shen, Liang Du and Fan Ye. Incremental Multi-view Support Vector Machine. *The Nineteenth SIAM International Conference on Data Mining (SDM-19)*, Calgary, Canada, May 2019.
@@ -74,6 +76,7 @@ Researches
   * **Peng Zhou**, Jiangyong Chen, Mingyu Fan, Liang Du, Yi-Dong Shen, Xuejun Li, Unsupervised feature selection for balanced clustering. *Knowledge-Based System*, 193,2020, 105417. 
   * Liang Du, Zhiyong Shen, Xuan Li, **Peng Zhou** and Yi-Dong Shen. Local and Global Discriminative Learning for Unsupervised Feature Selection. *The Thirteenth IEEE International Conference on Data Mining (ICDM-13)*, 2013:131-140.
 * **Active Learning**
+  * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**. Active Deep Multi-view Clustering, *The 33th International Joint Conference on Artificial Intelligence (IJCAI)*, 2023, South Korea, 2024, Accepted.
   * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**, Deep Self-paced Active Learning for Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
   * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2023, Accepted.
   * Bicheng Sun, **Peng Zhou (Corresponding author)**, Liang Du, Xuejun Li. Active Deep Image Clustering. *Knowledge-Based Systems*, 2022,252,109346. 
