@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Apr 26, 2024** "Feature Graoh Augmented Network Representation for Community Detection" has been accepted by IEEE TCSS.
 * **Apr 17，2024** Two papers "Active Deep Multi-view Clustering" and "Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference" have been accepted by IJCAI 2024.
 * **Mar 16, 2024** "Multi-View Semi-Supervised Feature Selection with Graph Convolutional Networks" has been accpeted by IJCNN 2024.
 * **Mar 13, 2024** Two papers "Deep Self-paced Active Learning for Image Clustering" and "Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering" have been accpeted by ICME 2024.
