@@ -18,7 +18,7 @@ redirect_from:
 
 Program Committee
 ======
-* NeurIPS 2021, 2022, 2023
+* NeurIPS 2021, 2022, 2023, 2024
 * ICML 2022, 2023, 2024
 * IJCAI 2019, 2020, 2022, 2023, 2024
 * AAAI 2020, 2021, 2022, 2023, 2024
