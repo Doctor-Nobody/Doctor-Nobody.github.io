@@ -2,7 +2,7 @@
 title: "Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering"
 collection: publications
 permalink: /publication/paper37
-date: 2024-03-13
+date: 2024-3-13
 venue: 'IEEE International Conference on Multimedia and Expo, 2024'
 ---
 

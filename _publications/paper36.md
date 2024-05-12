@@ -2,7 +2,7 @@
 title: "Deep Self-paced Active Learning for Image Clustering"
 collection: publications
 permalink: /publication/paper36
-date: 2024-03-13
+date: 2024-3-13
 venue: 'IEEE International Conference on Multimedia and Expo, 2024'
 ---
 

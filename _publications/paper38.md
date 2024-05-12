@@ -2,7 +2,7 @@
 title: "Active Deep Multi-view Clustering"
 collection: publications
 permalink: /publication/paper38
-date: 2024-04-16
+date: 2024-4-16
 venue: 'The International Joint Conference on Artificial Intelligence, 2024'
 ---
 
