@@ -23,11 +23,11 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Jul 16, 2024** Three papers "One-Stage Fair Multi-View Spectral Clustering", "Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering", and "Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion" have been accepted by ACM MM 2024.
 * **Apr 26, 2024** "Feature Graph Augmented Network Representation for Community Detection" has been accepted by IEEE TCSS.
 * **Apr 17，2024** Two papers "Active Deep Multi-view Clustering" and "Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference" have been accepted by IJCAI 2024.
-* **Mar 16, 2024** "Multi-View Semi-Supervised Feature Selection with Graph Convolutional Networks" has been accpeted by IJCNN 2024.
 * **Mar 13, 2024** Two papers "Deep Self-paced Active Learning for Image Clustering" and "Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering" have been accpeted by ICME 2024.
-* **Jan 30, 2024** One paper has been accepted by ACM TKDD.
+* **Jan 30, 2024** "Fair Feature Selection: A Causal Perspective" has been accepted by ACM TKDD.
 * **Dec 27, 2023** "Multiple Kernel Clustering with Local Kernel Reconstruction and Global Heat Diffusion" has been accepted by Information Fusion.
 * **Dec 12, 2023** Two papers "Higher Order Multiple Graph Filtering for Structured Graph Learning" and "Kmeans Clustering Based on Chebyshev Polynomial Graph Filtering" have been accepted by ICASSP 2024.
 * **Nov 26, 2023** "Multi-view Clustering Based on Adaptive Similarity Graph Joint Optimization" has been accepted by Chinese Journal of Computers (in Chinese). ("自适应相似图联合优化的多视图聚类"被《计算机学报》接收。)
