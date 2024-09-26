@@ -18,11 +18,12 @@ redirect_from:
   gtag('config', 'G-T0S164QJL9');
 </script>
 
-I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 50+ papers in highly regarded conferences and journals, including IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
+I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 50+ papers in highly regarded conferences and journals, including NeurIPS, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
 
 
 What's News
 ======
+* **Sep 26, 2024** "Fair Kernel K-Means: from Single Kernel towards Multiple Kernel" has been accepted by NeurIPS 2024.
 * **Jul 16, 2024** Three papers "One-Stage Fair Multi-View Spectral Clustering", "Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering", and "Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion" have been accepted by ACM MM 2024.
 * **Apr 26, 2024** "Feature Graph Augmented Network Representation for Community Detection" has been accepted by IEEE TCSS.
 * **Apr 17，2024** Two papers "Active Deep Multi-view Clustering" and "Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference" have been accepted by IJCAI 2024.
@@ -62,6 +63,7 @@ Researches
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020:2133-2139.
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
 * **Multi-view Learning**
+  * Rongwen Li, Haiyang Hu, Liang Du, Jiarong Chen, Bingbing Jiang, **Peng Zhou (Corresponding author)**. One-Stage Fair Multi-View Spectral Clustering, *ACM International Conference on Multimedia (ACM MM 2024)*, 2024, Accepted. 
   * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**. Active Deep Multi-view Clustering, *The 33th International Joint Conference on Artificial Intelligence (IJCAI)*, South Korea, 2024, Accepted.
   * Boao Hu, Xu Wang, **Peng Zhou (Corresponding author)**, Liang Du. Multi-view Outlier Detection via Graphs Denoising, *Information Fusion*, 2024,101,102012.
   * **Peng Zhou**, Liang Du. Learnable Graph Filter for Multi-view Clustering. *ACM International Conference on Multimedia (ACM MM 2023)*, 2023, Accepted.
@@ -85,6 +87,7 @@ Researches
   * Hanmo Wang, Liang Du, **Peng Zhou**, Lei Shi, Yi-Dong Shen. Convex batch mode active sampling via α-relative pearson divergence. *Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15)*. 2015: 3045-3051. 
   * Hanmo Wang, Liang Du, Lei Shi, **Peng Zhou**, Yuhua Qian, and Yi-Dong Shen. Experimental Design With Multiple Kernels. *The Fifteenth IEEE International Conference on Data Mining (ICDM-15)*, 2015: 419-428.
 * **Multiple Kernel Learning**
+  * **Peng Zhou**, Rongwen Li, Liang Du. Fair Kernel K-Means: from Single Kernel towards Multiple Kernel. *The Thirty-eighth Annual Conference on Neural Infomration Processing Systems (NeurIPS 2024)*, 2024, Accepted.
   * Yan Chen, Liang Du, **Peng Zhou**, Lei Duan, Yuhua Qian. Multiple Kernel Clustering with Local Kernel Reconstruction and Global Heat Diffusion. *Information Fusion*, 2024,105:102219.
   * **Peng Zhou**, Liang Du, Lei Shi, Hanmo Wang and Yi-Dong Shen. Recovery of Corrupted Multiple Kernels for Clustering. *The Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-15)*, 2015: 4105-4111.
   * Liang Du, **Peng Zhou**, Lei Shi, Hanmo Wang, Mingyu Fan, Wenjian Wang and Yi-Dong Shen. Robust Multiple Kernel K-means using L2-1-norm. *The Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-15)*, 2015: 3476-3482.
