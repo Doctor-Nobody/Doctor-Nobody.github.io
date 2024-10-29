@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Oct 29, 2024** "Clustering Ensemble Based on Fuzzy Matrix Self-Enhancement" has been accepted by  TKDE.
 * **Sep 26, 2024** "Fair Kernel K-Means: from Single Kernel towards Multiple Kernel" has been accepted by NeurIPS 2024.
 * **Jul 16, 2024** Three papers "One-Stage Fair Multi-View Spectral Clustering", "Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering", and "Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion" have been accepted by ACM MM 2024.
 * **Apr 26, 2024** "Feature Graph Augmented Network Representation for Community Detection" has been accepted by IEEE TCSS.
