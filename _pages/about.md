@@ -18,11 +18,12 @@ redirect_from:
   gtag('config', 'G-T0S164QJL9');
 </script>
 
-I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 50+ papers in highly regarded conferences and journals, including NeurIPS, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
+I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 50+ papers in highly regarded conferences and journals, including NeurIPS, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
 
 
 What's News
 ======
+* **Nov 25, 2024** "Fair Clustering Ensemble with Equal Cluster Capacity" has been accepted by TPAMI.
 * **Oct 29, 2024** "Clustering Ensemble Based on Fuzzy Matrix Self-Enhancement" has been accepted by  TKDE.
 * **Sep 26, 2024** "Fair Kernel K-Means: from Single Kernel towards Multiple Kernel" has been accepted by NeurIPS 2024.
 * **Jul 16, 2024** Three papers "One-Stage Fair Multi-View Spectral Clustering", "Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering", and "Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion" have been accepted by ACM MM 2024.
