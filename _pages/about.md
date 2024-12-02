@@ -53,6 +53,7 @@ What's News
 Researches
 ======
 * **Clustering Ensemble**
+  * **Peng Zhou**, Rongwen Li, Zhaolong Ling, Liang Du, Xinwang Liu, Fair Clustering Ensemble with Equal Cluster Capacity, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2024, Accepted. 
   * Chen Liang, Zhiqian Dong, Sheng Yang, **Peng Zhou (Corresponding author)**, Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
   * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, Partial Clustering Ensemble, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(5):2096-2109. 
   * **Peng Zhou**, Boao Hu, Dengcheng Yan, Liang Du, Clustering Ensemble via Diffusion on Adaptive Multiplex, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(4):1463-1474.
@@ -65,15 +66,15 @@ Researches
   * **Peng Zhou**, Liang Du, Xuejun Li (2020) Self-paced Consensus Clustering with Bipartite Graph. *The 29th International Joint Conference on Artificial Intelligence (IJCAI)*,  Yokohama, Japan, 2020:2133-2139.
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
 * **Multi-view Learning**
-  * Rongwen Li, Haiyang Hu, Liang Du, Jiarong Chen, Bingbing Jiang, **Peng Zhou (Corresponding author)**. One-Stage Fair Multi-View Spectral Clustering, *ACM International Conference on Multimedia (ACM MM 2024)*, 2024, Accepted. 
-  * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**. Active Deep Multi-view Clustering, *The 33th International Joint Conference on Artificial Intelligence (IJCAI)*, South Korea, 2024, Accepted.
+  * Rongwen Li, Haiyang Hu, Liang Du, Jiarong Chen, Bingbing Jiang, **Peng Zhou (Corresponding author)**. One-Stage Fair Multi-View Spectral Clustering, *ACM International Conference on Multimedia (ACM MM 2024)*, 2024:1407-1416. 
+  * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**. Active Deep Multi-view Clustering, *The 33th International Joint Conference on Artificial Intelligence (IJCAI)*, South Korea, 2024:5554-5562.
   * Boao Hu, Xu Wang, **Peng Zhou (Corresponding author)**, Liang Du. Multi-view Outlier Detection via Graphs Denoising, *Information Fusion*, 2024,101,102012.
   * **Peng Zhou**, Liang Du. Learnable Graph Filter for Multi-view Clustering. *ACM International Conference on Multimedia (ACM MM 2023)*, 2023, Accepted.
   * **Peng Zhou**, Yi-Dong Shen, Liang Du and Fan Ye. Incremental Multi-view Support Vector Machine. *The Nineteenth SIAM International Conference on Data Mining (SDM-19)*, Calgary, Canada, May 2019.
   * **Peng Zhou**, Yi-Dong Shen, Liang Du, Fan Ye, Xuejun Li,  Incremental multi-view spectral clustering. *Knowledge-Based System*, 174, 2019:73-86. 
   * **Peng Zhou**, Liang Du, Mingyu Fan and Yi-Dong Shen. An LLE based Heterogeneous Metric Learning for Crossmedia Retrieval. *The Fifteenth SIAM International Conference on Data Mining (SDM-15)*, 2015: 64-72.
 * **Feature Selection**
-  * Zhaolong Ling, Enqi Xu, **Peng Zhou (Corresponding author)**, Liang Du, Kui Yu, Xindong Wu, Fair Feature Selection: A Causal Perspective, *ACM Transactions on Knowledge Discovery from Data,* 2024, Accepted. 
+  * Zhaolong Ling, Enqi Xu, **Peng Zhou (Corresponding author)**, Liang Du, Kui Yu, Xindong Wu, Fair Feature Selection: A Causal Perspective, *ACM Transactions on Knowledge Discovery from Data,* 2024, 18(7):163. 
   * **Peng Zhou**, Xia Wang, Liang Du, Bi-level Ensemble Method for Unsupervised Feature Selection, *Information Fusion*, 2023,100,101910.
   * Zhaolong Ling, Ying Li, Yiwen Zhang, Kui Yu, **Peng Zhou**, Bo Li, Xindong Wu, A Light Causal Feature Selection Approach to High-Dimensional Data, *IEEE Transactions on Knowledge and Data Engineering*, 2023, 35(8):7639-7650.
   * **Peng Zhou**, Jiangyong Chen, Liang Du, Xuejun Li, Balanced Spectral Feature Selection, *IEEE Transactions on Cybernetics*, 2023, 53(7):4232-4244.
@@ -82,7 +83,7 @@ Researches
   * **Peng Zhou**, Jiangyong Chen, Mingyu Fan, Liang Du, Yi-Dong Shen, Xuejun Li, Unsupervised feature selection for balanced clustering. *Knowledge-Based System*, 193,2020, 105417. 
   * Liang Du, Zhiyong Shen, Xuan Li, **Peng Zhou** and Yi-Dong Shen. Local and Global Discriminative Learning for Unsupervised Feature Selection. *The Thirteenth IEEE International Conference on Data Mining (ICDM-13)*, 2013:131-140.
 * **Active Learning**
-  * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**. Active Deep Multi-view Clustering, *The 33th International Joint Conference on Artificial Intelligence (IJCAI)*, South Korea, 2024, Accepted.
+  * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**. Active Deep Multi-view Clustering, *The 33th International Joint Conference on Artificial Intelligence (IJCAI)*, South Korea, 2024:5554-5562.
   * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**, Deep Self-paced Active Learning for Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
   * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2023, Accepted.
   * Bicheng Sun, **Peng Zhou (Corresponding author)**, Liang Du, Xuejun Li. Active Deep Image Clustering. *Knowledge-Based Systems*, 2022,252,109346. 
