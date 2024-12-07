@@ -20,7 +20,7 @@ Program Committee
 ======
 * NeurIPS 2021, 2022, 2023, 2024
 * ICML 2022, 2023, 2024
-* IJCAI 2019, 2020, 2022, 2023, 2024
+* IJCAI 2019, 2020, 2022, 2023, 2024, 2025
 * AAAI 2020, 2021, 2022, 2023, 2024, 2025
 * ACM Multimedia 2021, 2022, 2023, 2024
 * CVPR 2024
@@ -65,7 +65,9 @@ Others
 * Senior Member of China Computer Federation (CCF)
 * Senior Member of IEEE
 * Advisory Board Member of Heliyon
-* Session Chair of the International Joint Conference on Artificial Intelligence 2024 (IJCAI 2024)
-* Session Chair of the IEEE International Conference on Data Mining 2023 (ICDM 2023)
+* Area Chair of of ICML 2025
+* Session Chair of IJCAI 2024
+* Session Chair of ICDM 2023
 * Session Chair of the 7th Asian Conference on Aritificial Intellligence Technology
+
 
