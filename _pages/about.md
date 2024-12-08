@@ -18,7 +18,7 @@ redirect_from:
   gtag('config', 'G-T0S164QJL9');
 </script>
 
-I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 50+ papers in highly regarded conferences and journals, including NeurIPS, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
+I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently an Associate Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 60+ papers in highly regarded conferences and journals, including NeurIPS, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE T-CYB, etc.
 
 
 What's News
@@ -54,6 +54,7 @@ Researches
 ======
 * **Clustering Ensemble**
   * **Peng Zhou**, Rongwen Li, Zhaolong Ling, Liang Du, Xinwang Liu, Fair Clustering Ensemble with Equal Cluster Capacity, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2024, Accepted. 
+  * Xia Ji, Jiawei Sun, Jianhua Peng, Yue Pang, **Peng Zhou (Corresponding author)**. Clustering Ensemble Based on Fuzzy Matrix Self-Enhancement. IEEE Transactions on Knowledge and Data Engineering, 2024, Accepted.  
   * Chen Liang, Zhiqian Dong, Sheng Yang, **Peng Zhou (Corresponding author)**, Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
   * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, Partial Clustering Ensemble, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(5):2096-2109. 
   * **Peng Zhou**, Boao Hu, Dengcheng Yan, Liang Du, Clustering Ensemble via Diffusion on Adaptive Multiplex, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(4):1463-1474.
