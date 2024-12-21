@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Dec 21, 2024** Two papers "Consensus Graph Filter Learning for Multiple Graph Clustering" and "Unsupervised Multi-View Outlier Detection via Optimal Graph Filtering" have been accepted by ICASSP 2025.
 * **Dec 10, 2024** Three papers "Sharper Error Bound in Late Fusion Multi-view Clustering with Eigenvalue Proportion Optimization", "Local Causal Discovery without Causal Sufficiency", and "Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering" have been accepted by AAAI 2025.
 * **Nov 25, 2024** "Fair Clustering Ensemble with Equal Cluster Capacity" has been accepted by TPAMI.
 * **Oct 29, 2024** "Clustering Ensemble Based on Fuzzy Matrix Self-Enhancement" has been accepted by  TKDE.
