@@ -57,7 +57,7 @@ Researches
 ======
 * **Clustering Ensemble**
   * **Peng Zhou**, Rongwen Li, Zhaolong Ling, Liang Du, Xinwang Liu, Fair Clustering Ensemble with Equal Cluster Capacity, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2024, Accepted. 
-  * Xia Ji, Jiawei Sun, Jianhua Peng, Yue Pang, **Peng Zhou (Corresponding author)**. Clustering Ensemble Based on Fuzzy Matrix Self-Enhancement. IEEE Transactions on Knowledge and Data Engineering, 2024, Accepted.  
+  * Xia Ji, Jiawei Sun, Jianhua Peng, Yue Pang, **Peng Zhou (Corresponding author)**. Clustering Ensemble Based on Fuzzy Matrix Self-Enhancement. IEEE Transactions on Knowledge and Data Engineering, 2025, 37(1):148-161.  
   * Chen Liang, Zhiqian Dong, Sheng Yang, **Peng Zhou (Corresponding author)**, Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
   * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, Partial Clustering Ensemble, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(5):2096-2109. 
   * **Peng Zhou**, Boao Hu, Dengcheng Yan, Liang Du, Clustering Ensemble via Diffusion on Adaptive Multiplex, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(4):1463-1474.
