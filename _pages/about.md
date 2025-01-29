@@ -94,7 +94,7 @@ Researches
   * Hanmo Wang, Liang Du, **Peng Zhou**, Lei Shi, Yi-Dong Shen. Convex batch mode active sampling via α-relative pearson divergence. *Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15)*. 2015: 3045-3051. 
   * Hanmo Wang, Liang Du, Lei Shi, **Peng Zhou**, Yuhua Qian, and Yi-Dong Shen. Experimental Design With Multiple Kernels. *The Fifteenth IEEE International Conference on Data Mining (ICDM-15)*, 2015: 419-428.
 * **Multiple Kernel Learning**
-  * **Peng Zhou**, Rongwen Li, Liang Du. Fair Kernel K-Means: from Single Kernel towards Multiple Kernel. *The Thirty-eighth Annual Conference on Neural Infomration Processing Systems (NeurIPS 2024)*, 2024, Accepted.
+  * **Peng Zhou**, Rongwen Li, Liang Du. Fair Kernel K-Means: from Single Kernel towards Multiple Kernel. *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)*, 2024, Accepted.
   * Yan Chen, Liang Du, **Peng Zhou**, Lei Duan, Yuhua Qian. Multiple Kernel Clustering with Local Kernel Reconstruction and Global Heat Diffusion. *Information Fusion*, 2024,105:102219.
   * **Peng Zhou**, Liang Du, Lei Shi, Hanmo Wang and Yi-Dong Shen. Recovery of Corrupted Multiple Kernels for Clustering. *The Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-15)*, 2015: 4105-4111.
   * Liang Du, **Peng Zhou**, Lei Shi, Hanmo Wang, Mingyu Fan, Wenjian Wang and Yi-Dong Shen. Robust Multiple Kernel K-means using L2-1-norm. *The Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-15)*, 2015: 3476-3482.
