@@ -56,8 +56,8 @@ What's News
 Researches
 ======
 * **Clustering Ensemble**
-  * **Peng Zhou**, Rongwen Li, Zhaolong Ling, Liang Du, Xinwang Liu, Fair Clustering Ensemble with Equal Cluster Capacity, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2024, Accepted. 
-  * Xia Ji, Jiawei Sun, Jianhua Peng, Yue Pang, **Peng Zhou (Corresponding author)**. Clustering Ensemble Based on Fuzzy Matrix Self-Enhancement. IEEE Transactions on Knowledge and Data Engineering, 2025, 37(1):148-161.  
+  * **Peng Zhou**, Rongwen Li, Zhaolong Ling, Liang Du, Xinwang Liu, Fair Clustering Ensemble with Equal Cluster Capacity, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025,47(3), 1729-1746. 
+  * Xia Ji, Jiawei Sun, Jianhua Peng, Yue Pang, **Peng Zhou (Corresponding author)**. Clustering Ensemble Based on Fuzzy Matrix Self-Enhancement. *IEEE Transactions on Knowledge and Data Engineering*, 2025, 37(1):148-161.  
   * Chen Liang, Zhiqian Dong, Sheng Yang, **Peng Zhou (Corresponding author)**, Jointly Learn the Base Clustering and Ensemble for Deep Image Clustering, *IEEE Conference on Multimedia Expo*, 2024, Accepted. 
   * **Peng Zhou**, Liang Du, Xinwang Liu, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen, Partial Clustering Ensemble, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(5):2096-2109. 
   * **Peng Zhou**, Boao Hu, Dengcheng Yan, Liang Du, Clustering Ensemble via Diffusion on Adaptive Multiplex, *IEEE Transactions on Knowledge and Data Engineering*, 2024,36(4):1463-1474.
@@ -78,6 +78,7 @@ Researches
   * **Peng Zhou**, Yi-Dong Shen, Liang Du, Fan Ye, Xuejun Li,  Incremental multi-view spectral clustering. *Knowledge-Based System*, 174, 2019:73-86. 
   * **Peng Zhou**, Liang Du, Mingyu Fan and Yi-Dong Shen. An LLE based Heterogeneous Metric Learning for Crossmedia Retrieval. *The Fifteenth SIAM International Conference on Data Mining (SDM-15)*, 2015: 64-72.
 * **Feature Selection**
+  * Zhaolong Ling, Jingxuan Wu, Yiwen Zhang, **Peng Zhou (Corresponding author)**, Xingyu Wu, Kui Yu, Xindong Wu, Label-Aware Causal Feature Selection, *IEEE Transactions on Knowledge and Data Engineering*, 2025,37(3):1268-1281.
   * Zhaolong Ling, Enqi Xu, **Peng Zhou (Corresponding author)**, Liang Du, Kui Yu, Xindong Wu, Fair Feature Selection: A Causal Perspective, *ACM Transactions on Knowledge Discovery from Data,* 2024, 18(7):163. 
   * **Peng Zhou**, Xia Wang, Liang Du, Bi-level Ensemble Method for Unsupervised Feature Selection, *Information Fusion*, 2023,100,101910.
   * Zhaolong Ling, Ying Li, Yiwen Zhang, Kui Yu, **Peng Zhou**, Bo Li, Xindong Wu, A Light Causal Feature Selection Approach to High-Dimensional Data, *IEEE Transactions on Knowledge and Data Engineering*, 2023, 35(8):7639-7650.
