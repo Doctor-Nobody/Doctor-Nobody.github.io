@@ -16,9 +16,6 @@ author_profile: true
 
 Undergraduate Courses：
 ======
-* Machine Learning
-* Artificial Intelligence
-* Matlab Programming
 * Software Construction
 
 Postgraduate Courses:
