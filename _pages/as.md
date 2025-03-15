@@ -22,20 +22,20 @@ Program Committee
 * ICML 2022, 2023, 2024
 * IJCAI 2019, 2020, 2022, 2023, 2024, 2025
 * AAAI 2020, 2021, 2022, 2023, 2024, 2025
-* ACM Multimedia 2021, 2022, 2023, 2024
+* ACM Multimedia 2021, 2022, 2023, 2024, 2025
 * CVPR 2024
 * KDD 2024, 2025
 * ICLR 2022, 2023, 2024, 2025
 * ECAI 2020
-* ICME 2021, 2022, 2023, 2024
+* ICME 2021, 2022, 2023, 2024, 2025
 * ICASSP 2023, 2024
-* AISTATS 2025
 
 
 Reviewer
 ======
 * IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Knowledge and Data Engineering 
+* IEEE Transactions on Image Processing
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Automation Science and Engineering
