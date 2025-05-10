@@ -46,12 +46,7 @@ What's News
 * **Apr 2, 2023** "Adaptive Consensus Clustering for Multiple K-means via Base Results Refining" has been accepted by TKDE.
 * **Mar 13, 2023** Two papers "Medical Image Super-resolution via Diagnosis-guided Attention" and "INCLR: Intensifying the Consistency of Pseudo Label Refinement for Unsupervised Domain Adaption Person Re-Identification" have been accepted by ICME 2023.
 * **Mar 1, 2023** "Active Clustering Ensemble with Self-paced Learning" has been accepted by IEEE TNNLS.
-* **Nov 16, 2022** "A Node Classification-Based Multi-Objective Evolutionary Algorithm for Community Detection in Complex Networks" has been accepted by IEEE TCSS.
-* **Oct 30, 2022** "A Light Causal Feature Selection Approach to High-Dimensional Data" has been accepted by IEEE TKDE.
-* **Sep 20, 2022** "Self-paced Adaptive Bipartite Graph Learning for Consensus Clustering" has been accepted by ACM TKDD.
-* **Jun 25, 2022** "Active Deep Image Clustering" has been accepted by Knowledge-Based Systems.
-* **Mar 15, 2022** "Balanced Spectral Feature Selection" has been accepted by IEEE Transactions on Cybernetics.
-* **Mar 6，2022** “FRATCF:Feature-Residue Real-Time UAV Tracking Based on Automatic Spatio-Temporal Regularization Correlation Filter” has been accepted by ICME 2022.
+
 
 
 Researches
