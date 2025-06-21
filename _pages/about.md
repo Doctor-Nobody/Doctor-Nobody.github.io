@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Jun 20, 2025** "A Dual Mixture-of-Experts Framework for Multi-View K-Means Clustering with View Balance and Regional Sparsity" has been accepted by Information Fusion.
 * **Jun 15, 2025** "Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation" has been accepted by IEEE TFS.
 * **May 24, 2025** "Graph Diffusion Enhanced Contrastive Representation Learning on Topology and Feature Space for Community Detection" has been accepted by IEEE TETCI.
 * **Apr 29, 2025** Two papers "Wavelet Multi-scale Region-Enhanced Network for Medical Image Segmentation" and "Multi-view Clustering via Multi-granularity Ensemble" have been accepted by IJCAI 2025.
