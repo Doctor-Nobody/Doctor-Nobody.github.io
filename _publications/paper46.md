@@ -1,8 +1,8 @@
 ---
-title: "Wavelet Multi-scale Region-Enhanced Network for Medical Image Segmentation"
+title: "Graph Diffusion Enhanced Contrastive Representation Learning on Topology and Feature Space for Community Detection"
 collection: publications
-permalink: /publication/paper46
-date: 2025-4-29
-venue: 'The International Joint Conference on Artificial Intelligence'
+permalink: /publication/paper47
+date: 2025-5-24
+venue: 'IEEE Transactions on Emerging Topics in Computational Intelligence'
 ---
-Hang Lu, Liang Du, **Peng Zhou***. (2025). &quot;Wavelet Multi-scale Region-Enhanced Network for Medical Image Segmentation.&quot; <i>The International Joint Conference on Artificial Intelligence</i>, 2025,Accepted. (Corresponding author) [paper](http://Doctor-Nobody.github.io/papers/ijcai2025.pdf) [code](https://github.com/C101812/WMREN/tree/master)
+Lei Zhang, Fubo Sun, Zeqi Wu, Wuji Zhang, Haipeng Yang, **Peng Zhou***. (2025). &quot;Graph Diffusion Enhanced Contrastive Representation Learning on Topology and Feature Space for Community Detection.&quot; <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 2025,Accepted. (Corresponding author) [paper](http://Doctor-Nobody.github.io/papers/tetci2025.pdf) [code](https://github.com/vege12138/GDCL)
