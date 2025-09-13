@@ -21,6 +21,7 @@ Undergraduate Courses：
 Postgraduate Courses:
 ======
 * Machine Learning
+* Matrix Analysis
 
 
 Projects：
