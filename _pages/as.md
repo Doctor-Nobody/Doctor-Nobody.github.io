@@ -25,9 +25,7 @@ Program Committee
 * ACM Multimedia 2021, 2022, 2023, 2024, 2025
 * CVPR 2024
 * KDD 2024, 2025
-* ICLR 2022, 2023, 2024, 2025
-* ICME 2021, 2022, 2023, 2024, 2025
-* ICASSP 2023, 2024
+* ICLR 2022, 2023, 2024, 2025, 2026
 
 
 Reviewer
@@ -35,14 +33,15 @@ Reviewer
 * IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Knowledge and Data Engineering 
 * IEEE Transactions on Image Processing
+* IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
+* IEEE Transactions on Multimedia
 * IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Consumer Electronics
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Computational Social Systems
 * IEEE Transactions on Emerging Topics in Computational Intelligence
-* IEEE Signal Processing Letters
 * Pattern Recognition
 * Information Fusion
 * Machine Learning
@@ -53,7 +52,6 @@ Reviewer
 * Neurocomputing
 * Signal Processing
 * Applied Soft Computing
-* Information Processing and Management
 * IEEE/CAA Journal of Automatica Sinica
 * 计算机学报
 * 软件学报
