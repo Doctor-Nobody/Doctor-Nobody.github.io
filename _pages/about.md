@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Jan 09, 2026** "Interpretable Subspace Clustering" has been accepted by TPAMI.
 * **Sep 20，2025** I'm selected for the World's Top 2% Scientists List (single year data).
 * **Aug 27，2025** My general project of National Natural Science Foundation of China (NSFC) has been approved.
 * **Jul 6， 2025** Two papers "Balanced Multiple Kernel Clustering with Discrete Partition Entropy Auto Regularization" and "Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering" have been accepted by ACM MM 2025.
