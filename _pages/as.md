@@ -63,6 +63,7 @@ Others
 * Senior Member of IEEE
 * Advisory Board Member of Heliyon
 * Area Chair of of ICML 2025, 2026
+* Senior PC of IJCAI 2026
 * Session Chair of IJCAI 2024
 * Session Chair of ICDM 2023
 * Session Chair of the 7th Asian Conference on Aritificial Intellligence Technology
