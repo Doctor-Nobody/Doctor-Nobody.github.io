@@ -63,7 +63,7 @@ Researches
   * **Peng Zhou**, Liang Du, Hanmo Wang, Lei Shi and Yi-Dong Shen. Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization. *IJCAI-15* , 2015: 4112-4118. 
 
 * **Intepretable Machine Learning**
-  * Zheng Zhang, **Peng Zhou (Corresponding author)**, Liang Du, Xinwang Liu. Interpretable Subspace Clustering, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, Accepted.
+  * Zheng Zhang, **Peng Zhou (Corresponding author)**, Liang Du, Xinwang Liu. Interpretable Subspace Clustering, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026, Accepted.
   * Zhaolong Ling, Jingxuan Wu, Yiwen Zhang, **Peng Zhou (Corresponding author)**, Xingyu Wu, Kui Yu, Xindong Wu, Label-Aware Causal Feature Selection, *IEEE Transactions on Knowledge and Data Engineering*, 2025,37(3):1268-1281.
   * Zhaolong Ling, Enqi Xu, **Peng Zhou (Corresponding author)**, Liang Du, Kui Yu, Xindong Wu, Fair Feature Selection: A Causal Perspective, *ACM Transactions on Knowledge Discovery from Data,* 2024, 18(7):163.
   
