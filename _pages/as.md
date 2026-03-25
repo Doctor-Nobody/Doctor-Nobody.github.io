@@ -22,9 +22,9 @@ Program Committee
 * ICML 2022, 2023, 2024
 * IJCAI 2019, 2020, 2022, 2023, 2024, 2025
 * AAAI 2020, 2021, 2022, 2023, 2024, 2025
-* ACM Multimedia 2021, 2022, 2023, 2024, 2025
+* ACM Multimedia 2021, 2022, 2023, 2024, 2025, 2026
 * CVPR 2024
-* KDD 2024, 2025
+* KDD 2024, 2025, 2026
 * ICLR 2022, 2023, 2024, 2025, 2026
 
 
@@ -61,11 +61,12 @@ Others
 ======
 * Senior Member of China Computer Federation (CCF)
 * Senior Member of IEEE
-* Advisory Board Member of Heliyon
-* Area Chair of of ICML 2025, 2026
+* Area Chair of NeurIPS 2026
+* Area Chair of ICML 2025, 2026
 * Senior PC of IJCAI 2026
 * Session Chair of IJCAI 2024
 * Session Chair of ICDM 2023
-* Session Chair of the 7th Asian Conference on Aritificial Intellligence Technology
+* Advisory Board Member of Heliyon
+* Geust Editor of Mathematics
 
 
