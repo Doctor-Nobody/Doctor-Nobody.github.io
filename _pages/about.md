@@ -18,15 +18,16 @@ redirect_from:
   gtag('config', 'G-T0S164QJL9');
 </script>
 
-I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently a Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 70+ papers in highly regarded conferences and journals, including NeurIPS, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc. In 2025, I'm selected for the World's Top 2% Scientists List.
+I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently a Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 90+ papers in highly regarded conferences and journals, including NeurIPS, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc. In 2025, I'm selected for the World's Top 2% Scientists List.
 
 
 What's News
 ======
+* **Jul 10, 2026** "Rethinking Uncertainty in Active Learning for Image Classification: When Confidence Is Misleading" has been accepted by ACM MM 2026.
 * **Jan 09, 2026** "Interpretable Subspace Clustering" has been accepted by TPAMI.
-* **Sep 20，2025** I'm selected for the World's Top 2% Scientists List (single year data).
-* **Aug 27，2025** My general project of National Natural Science Foundation of China (NSFC) has been approved.
-* **Jul 6， 2025** Two papers "Balanced Multiple Kernel Clustering with Discrete Partition Entropy Auto Regularization" and "Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering" have been accepted by ACM MM 2025.
+* **Sep 20, 2025** I'm selected for the World's Top 2% Scientists List (single year data).
+* **Aug 27, 2025** My general project of National Natural Science Foundation of China (NSFC) has been approved.
+* **Jul 6, 2025** Two papers "Balanced Multiple Kernel Clustering with Discrete Partition Entropy Auto Regularization" and "Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering" have been accepted by ACM MM 2025.
 * **Jun 20, 2025** "A Dual Mixture-of-Experts Framework for Multi-View K-Means Clustering with View Balance and Regional Sparsity" has been accepted by Information Fusion.
 * **Jun 15, 2025** "Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation" has been accepted by IEEE TFS.
 * **May 24, 2025** "Graph Diffusion Enhanced Contrastive Representation Learning on Topology and Feature Space for Community Detection" has been accepted by IEEE TETCI.
@@ -73,6 +74,7 @@ Researches
   * **Peng Zhou**, Rongwen Li, Liang Du. Fair Kernel K-Means: from Single Kernel towards Multiple Kernel. *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)*, 2024.
 
 * **Active Learning**
+  * Zilong Ling, Huabin Wang, Liang Du, Xuejun Li, **Peng Zhou (Corresponding author)**. Rethinking Uncertainty in Active Learning for Image Classification: When Confidence Is Misleading, *ACM International Conference on Multimedia (ACM MM 2026)*, 2026, Accepted. 
   * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**. Active Deep Multi-view Clustering, *The 33th International Joint Conference on Artificial Intelligence (IJCAI)*, South Korea, 2024:5554-5562.
   * Helin Zhao, Wei Chen, **Peng Zhou (Corresponding author)**, Deep Self-paced Active Learning for Image Clustering, *IEEE Conference on Multimedia Expo*, 2024. 
   * **Peng Zhou**, Bicheng Sun, Xinwang Liu, Liang Du, Xuejun Li, Active Clustering Ensemble with Self-paced Learning, *IEEE Transactions on Neural Networks and Learning Systems*,2024,35(9):12186-12200.
