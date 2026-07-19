@@ -21,7 +21,7 @@ Program Committee
 * NeurIPS 2021, 2022, 2023, 2024, 2025
 * ICML 2022, 2023, 2024
 * IJCAI 2019, 2020, 2022, 2023, 2024, 2025
-* AAAI 2020, 2021, 2022, 2023, 2024, 2025
+* AAAI 2020, 2021, 2022, 2023, 2024, 2025, 2026
 * ACM Multimedia 2021, 2022, 2023, 2024, 2025, 2026
 * CVPR 2024
 * KDD 2024, 2025, 2026
@@ -64,6 +64,7 @@ Others
 * Area Chair of NeurIPS 2026
 * Area Chair of ICML 2025, 2026
 * Senior PC of IJCAI 2026
+* Senior PC of AAAI 2027
 * Session Chair of IJCAI 2024
 * Session Chair of ICDM 2023
 * Advisory Board Member of Heliyon
