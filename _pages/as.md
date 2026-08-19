@@ -34,6 +34,7 @@ Reviewer
 * IEEE Transactions on Knowledge and Data Engineering 
 * IEEE Transactions on Image Processing
 * IEEE Transactions on Information Forensics and Security
+* IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Multimedia
@@ -63,6 +64,7 @@ Others
 * Senior Member of IEEE
 * Area Chair of NeurIPS 2026
 * Area Chair of ICML 2025, 2026
+* Area Chair of ICLR 2027
 * Senior PC of IJCAI 2026
 * Senior PC of AAAI 2027
 * Session Chair of IJCAI 2024
