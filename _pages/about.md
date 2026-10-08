@@ -18,13 +18,14 @@ redirect_from:
   gtag('config', 'G-T0S164QJL9');
 </script>
 
-I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently a Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 90+ papers in highly regarded conferences and journals, including NeurIPS, ICML, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Area Chair or Senior Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc. In 2025, I'm selected for the World's Top 2% Scientists List.
+I received the B.E. degree in computer science and technology from University of Science and Technology of China in 2011, and Ph.D degree in Computer Science from Institute of Software, Chinese Academy of Sciences in 2017. I am currently a Professor in Anhui University. My research interests include clustering ensemble, multi-view learning, feature selection and so on. I have published 90+ papers in highly regarded conferences and journals, including NeurIPS, ICML, IJCAI, AAAI, ACM MM, SDM, ICDM, IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, ACM TKDD, PR, etc. I have served as Area Chair or Senior Program Committee for NeurIPS, ICLR, ICML, IJCAI, AAAI, and reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc. In 2025 and 2026, I'm selected for the World's Top 2% Scientists List.
 
 
 What's News
 ======
+* **Oct 7, 2025** I'm selected for the World's Top 2% Scientists List (single year data).
 * **Jul 10, 2026** "Rethinking Uncertainty in Active Learning for Image Classification: When Confidence Is Misleading" has been accepted by ACM MM 2026.
-* **Jan 09, 2026** "Interpretable Subspace Clustering" has been accepted by TPAMI.
+* **Jan 9, 2026** "Interpretable Subspace Clustering" has been accepted by TPAMI.
 * **Sep 20, 2025** I'm selected for the World's Top 2% Scientists List (single year data).
 * **Aug 27, 2025** My general project of National Natural Science Foundation of China (NSFC) has been approved.
 * **Jul 6, 2025** Two papers "Balanced Multiple Kernel Clustering with Discrete Partition Entropy Auto Regularization" and "Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering" have been accepted by ACM MM 2025.
