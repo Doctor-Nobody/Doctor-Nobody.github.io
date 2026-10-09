@@ -23,7 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
-* **Oct 7, 2025** I'm selected for the World's Top 2% Scientists List (single year data).
+* **Oct 8, 2025** I'm selected for the World's Top 2% Scientists List (single year data).
 * **Jul 10, 2026** "Rethinking Uncertainty in Active Learning for Image Classification: When Confidence Is Misleading" has been accepted by ACM MM 2026.
 * **Jan 9, 2026** "Interpretable Subspace Clustering" has been accepted by TPAMI.
 * **Sep 20, 2025** I'm selected for the World's Top 2% Scientists List (single year data).
