@@ -23,6 +23,7 @@ I received the B.E. degree in computer science and technology from University of
 
 What's News
 ======
+* **Oct 12, 2026** "Stable Multi-view Representation Learning for Out-of-Distribution Classification" has benn accepted by Information Fusion.
 * **Oct 8, 2026** I'm selected for the World's Top 2% Scientists List (single year data).
 * **Jul 10, 2026** "Rethinking Uncertainty in Active Learning for Image Classification: When Confidence Is Misleading" has been accepted by ACM MM 2026.
 * **Jan 9, 2026** "Interpretable Subspace Clustering" has been accepted by TPAMI.
