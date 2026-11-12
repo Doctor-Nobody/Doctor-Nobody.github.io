@@ -63,7 +63,7 @@ Others
 * Senior Member of China Computer Federation (CCF)
 * Senior Member of IEEE
 * Area Chair of NeurIPS 2026
-* Area Chair of ICML 2025, 2026
+* Area Chair of ICML 2025, 2026, 2027
 * Area Chair of ICLR 2027
 * Senior PC of IJCAI 2026
 * Senior PC of AAAI 2027
